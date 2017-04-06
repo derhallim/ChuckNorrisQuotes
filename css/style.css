@@ -1,0 +1,9 @@
+.quote-container{
+    
+    color: #fff;    
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    padding: 20px;
+    border-radius: 7px;
+}
